@@ -1,14 +1,17 @@
 # Ollama
 Describe Images using Ollama Models 
 
-### Step 1. run docker 
-docker run -p 11434:11434 --name ollama-dev [Docker Image]
-docker exec -it ollama-dev /bin/bash
+### Step 1. run docker
+```
+$ docker run -p 11434:11434 --name ollama-dev [Docker Image]
+$ docker exec -it ollama-dev /bin/bash
+```
 
 ### Step 2. Set env 
 ```bash
 $ export OLLAMA_HOST=http://host.docker.internal:11434
 ```
+
 ### Step 3. Ollama Connection test
 we can test connection using 'curl'
 ```bash
