@@ -27,5 +27,8 @@ $ python describe_image.py --file_name 01.jpg
 ```
 
 ### llama3.2-vision model results
-01.jpg (Trump)
-!(testfile/01.jpg)
+![](testfile/01.jpg)
+![](testfile/02.jpg)
+![](testfile/03.jpg)
+![](testfile/04.jpg)
+![](testfile/05.png)
