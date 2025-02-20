@@ -43,5 +43,31 @@ In the foreground, the grassy lawn stretches out, punctuated by two small object
 이 사진은 아시아풍 디자인의 2층 주택이 따뜻한 내부 조명으로 빛나는 모습을 담고 있습니다. 집은 하얀 테두리와 어두운 지붕을 가지고 있으며, 1층 전면에는 큰 창문들이 자리하고 있습니다. 2층은 왼쪽의 나무들에 의해 부분적으로 가려져 있습니다. 건물의 외관은 돌이나 콘크리트 블록으로 지어진 것처럼 보입니다. 전경에는 푸른 잔디밭이 펼쳐져 있으며, 두 개의 작은 물체가 흐릿하게 보입니다. 배경에는 어두운 구름과 함께 수평선에 분홍빛이 감도는 하늘이 드리워져 있어, 일출이나 일몰의 분위기를 자아냅니다.
 
 ![](testfile/03.jpg)
+
+This photograph features a small, long-haired white kitten with striking grey stripes on its back and tail. The kitten's large eyes are round and black, while its ears are perked up, accentuating its alert demeanor. Its pink nose is slightly upturned, giving it an endearing expression.
+The kitten stands upright on two legs, resting its weight on a wooden surface that appears to be the top of a fence or gate, likely made of untreated wood such as cedar or pine. The blurred background suggests a natural setting, possibly outdoors in a garden or yard, with grass and other vegetation visible beyond the wooden structure.
+
+이 사진에는 긴 털을 가진 작은 흰색 새끼 고양이가 등장합니다. 고양이의 등과 꼬리에는 눈에 띄는 회색 줄무늬가 있으며, 큰 눈은 둥글고 검은색입니다. 귀는 쫑긋 서 있어 경계심 많은 모습을 강조하고, 살짝 들린 분홍색 코는 사랑스러운 표정을 더해줍니다.
+새끼 고양이는 두 발로 서서 나무 표면에 몸을 기대고 있는데, 이 나무는 아마도 삼나무나 소나무 같은 가공되지 않은 목재로 만든 울타리나 문 위쪽일 것입니다. 배경은 흐릿하게 처리되어 자연 환경, 아마도 정원이나 마당일 가능성이 있으며, 나무 구조물 너머로 풀과 다른 식물이 보입니다.
+전체적으로 이 이미지는 자연 환경에서의 장난스럽고 호기심 많은 새끼 고양이의 민첩함과 적응력을 잘 보여줍니다.
+
 ![](testfile/04.jpg)
+
+The image depicts a serene and mystical scene, with the aurora borealis dancing across the sky in shades of green. The purpose of this image is to showcase the natural beauty of the Northern Lights.
+* A road:
+        + The road stretches out into the distance, curving slightly as it disappears from view.
+        + It appears to be a rural or wilderness area, with no signs of human activity nearby.
+        + The road is empty and quiet, with no cars or pedestrians in sight.
+* Trees:
+        + Tall trees line both sides of the road, their branches stretching up towards the sky like outstretched arms.
+        + The trees are dark green and appear to be evergreen, with a few bare branches visible among the foliage.
+        + They provide a sense of depth and scale to the image, creating a feeling of vastness and isolation.
+* Aurora Borealis:
+        + The aurora borealis is depicted as a swirling, ethereal display of light and color in the sky above the trees.
+        + It appears to be moving rapidly, with streaks of green and blue radiating outward from a central point.
+        + The colors are vibrant and vivid, casting an otherworldly glow over the entire scene.
+Overall, the image presents a breathtaking and enchanting view of the natural world, with the aurora borealis adding an extra layer of magic and wonder to the already picturesque landscape.
+
+이 이미지는 고요하고 신비로운 장면을 담고 있으며, 하늘을 가로지르는 오로라가 녹색의 빛으로 춤추고 있습니다. 이 이미지는 북극광의 자연미를 보여주기 위한 것입니다. 도로는 멀리까지 이어지며, 약간의 곡선을 그리며 시야에서 사라집니다. 주변에는 인간의 흔적이 없는 시골이나 자연 지역으로 보이며, 도로는 차나 보행자 없이 조용하고 고요합니다. 도로 양쪽에는 키 큰 나무들이 줄지어 서 있으며, 그 가지들은 하늘을 향해 팔을 뻗은 듯한 모습입니다. 나무들은 짙은 녹색의 상록수로 보이며, 몇몇 가지는 잎이 없는 모습도 보입니다. 이 나무들은 이미지에 깊이와 규모감을 더해주며, 광활하고 고립된 느낌을 줍니다. 오로라는 나무 위 하늘에서 소용돌이치는 신비로운 빛과 색의 장관으로 묘사되며, 중앙에서부터 녹색과 파란색의 줄기가 빠르게 퍼져나가는 모습입니다. 색상은 생생하고 선명하여, 전체 장면에 다른 세상의 빛을 더해줍니다. 전체적으로 이 이미지는 자연 세계의 숨막히고 매혹적인 모습을 보여주며, 오로라가 이미 그림 같은 풍경에 마법과 경이로움을 더해줍니다.
+
 ![](testfile/05.png)
