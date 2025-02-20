@@ -1,0 +1,8 @@
+{   
+    "ollama_model": "llama3.2-vision",
+    "ollama_param": "latest",
+    "openai_embedding_model": "text-embedding-3-large",
+    "random_state": 42,
+    "max_tokens": 500, 
+    "temperature": 0.1
+}
