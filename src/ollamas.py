@@ -7,7 +7,7 @@ class OllamaImg:
     def get_info_from_image(self, image_file):
         print(f"\nProcessing {image_file}") 
         response = ollama.chat(
-            model=f"{self.config['ollama_model']}:{self.config['ollama_param']}",     # llava:13b
+            model=f"{self.config['ollama_model']}:{self.config['ollama_model_tag']}",     # llava:13b
             messages=[
                 {"role": "system", "content": "Describe the content of the image.", "images": [image_file], "temperature": self.config['temperature']}
             ],
