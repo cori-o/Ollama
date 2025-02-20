@@ -8,23 +8,23 @@ $ docker exec -it ollama-dev /bin/bash
 ```
 
 ### Step 2. Set env 
-we need to set env in docker container
+Inside the container, set the Ollama API host so the model can connect properly.
 ```bash
 $ export OLLAMA_HOST=http://host.docker.internal:11434
 ```
 
 ### Step 3. Ollama Connection test
-we can test connection using 'curl'
+Before running image descriptions, test if Ollama is running correctly.
 ```bash
 $ apt-get update -y
 $ apt-get install curl -y
 $ curl http://host.docker.internal:11434/api/tags
 ```
 ### Step 4. run Ollama models 
-we can select ollama models (config/llm_configs  -> ollama model, ollama model tags (e.g latest, 3b)
+Now, we can use a Python script to generate descriptions.
 ``` bash
 $ python describe_image.py --file_name 01.jpg
 ```
 
-### llama3.2-vision model results 
+### llama3.2-vision model results
 01.jpg (Trump)
