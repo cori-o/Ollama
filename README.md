@@ -26,7 +26,7 @@ Now, we can use a Python script to generate descriptions.
 $ python describe_image.py --file_name 01.jpg
 ```
 
-### llama3.2-vision model results
+## --- llama3.2-vision model results ---
 ![](testfile/01.jpg)
 
 The image depicts Donald Trump, former President of the United States, standing in front of an American flag. He is dressed in a dark blue suit jacket and red tie, with his right hand extended forward as if he is pointing at something or someone.
@@ -71,3 +71,9 @@ Overall, the image presents a breathtaking and enchanting view of the natural wo
 이 이미지는 고요하고 신비로운 장면을 담고 있으며, 하늘을 가로지르는 오로라가 녹색의 빛으로 춤추고 있습니다. 이 이미지는 북극광의 자연미를 보여주기 위한 것입니다. 도로는 멀리까지 이어지며, 약간의 곡선을 그리며 시야에서 사라집니다. 주변에는 인간의 흔적이 없는 시골이나 자연 지역으로 보이며, 도로는 차나 보행자 없이 조용하고 고요합니다. 도로 양쪽에는 키 큰 나무들이 줄지어 서 있으며, 그 가지들은 하늘을 향해 팔을 뻗은 듯한 모습입니다. 나무들은 짙은 녹색의 상록수로 보이며, 몇몇 가지는 잎이 없는 모습도 보입니다. 이 나무들은 이미지에 깊이와 규모감을 더해주며, 광활하고 고립된 느낌을 줍니다. 오로라는 나무 위 하늘에서 소용돌이치는 신비로운 빛과 색의 장관으로 묘사되며, 중앙에서부터 녹색과 파란색의 줄기가 빠르게 퍼져나가는 모습입니다. 색상은 생생하고 선명하여, 전체 장면에 다른 세상의 빛을 더해줍니다. 전체적으로 이 이미지는 자연 세계의 숨막히고 매혹적인 모습을 보여주며, 오로라가 이미 그림 같은 풍경에 마법과 경이로움을 더해줍니다.
 
 ![](testfile/05.png)
+
+This image features a whimsical black and white drawing of Snoopy, the beloved Peanuts character, sitting atop his doghouse.
+Snoopy is depicted in profile, facing left, with his head tilted slightly upwards and his nose pointed towards the sky. He appears to be gazing at something beyond the horizon. The doghouse itself is partially visible, showcasing three horizontal lines that suggest the presence of a roof or top surface.
+The image has a minimalistic quality, with a simple black outline drawing on a white background, devoid of any additional details or colors. This style adds to the character's endearing and innocent charm, making it an appealing representation of Snoopy in his iconic doghouse setting.
+
+이 이미지는 사랑받는 피너츠 캐릭터 스누피가 그의 개집 위에 앉아 있는 흑백의 유쾌한 그림을 담고 있습니다. 스누피는 왼쪽을 바라보며 옆모습으로 그려져 있으며, 머리를 약간 위로 기울이고 코를 하늘 쪽으로 향하고 있습니다. 그는 수평선 너머를 응시하는 듯한 모습입니다. 개집은 부분적으로 보이며, 지붕이나 상단 표면을 암시하는 세 개의 수평선이 그려져 있습니다. 이 이미지는 흰색 배경에 단순한 검은 윤곽선으로 그려져 있어, 추가적인 세부사항이나 색상이 없습니다. 이러한 스타일은 스누피의 사랑스럽고 순수한 매력을 더해주며, 그의 상징적인 개집 장면을 매력적으로 표현하고 있습니다.
