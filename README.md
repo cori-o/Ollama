@@ -26,7 +26,8 @@ Now, we can use a Python script to generate descriptions.
 $ python describe_image.py --file_name 01.jpg
 ```
 
-## * llama3.2-vision model results 
+
+## [llama3.2-vision model results]
 ![](testfile/01.jpg)
 
 The image depicts Donald Trump, former President of the United States, standing in front of an American flag. He is dressed in a dark blue suit jacket and red tie, with his right hand extended forward as if he is pointing at something or someone.
