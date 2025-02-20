@@ -2,12 +2,13 @@
 Describe Images using Ollama Models 
 
 ### Step 1. run docker
-```
+```bash 
 $ docker run -p 11434:11434 --name ollama-dev [Docker Image]
 $ docker exec -it ollama-dev /bin/bash
 ```
 
 ### Step 2. Set env 
+we need to set env in docker container
 ```bash
 $ export OLLAMA_HOST=http://host.docker.internal:11434
 ```
@@ -26,3 +27,4 @@ $ python describe_image.py --file_name 01.jpg
 ```
 
 ### llama3.2-vision model results 
+01.jpg (Trump)
